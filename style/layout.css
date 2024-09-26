@@ -1,0 +1,16 @@
+.left, .middle, .right {
+    width: 30%;
+    padding: 1rem;
+    margin: 1.52%;
+    float: left;
+    background-color: white;
+}
+
+@media screen and (max-width: 756px) {
+
+    .left, .middle, .right {
+        width: 100%;
+        
+    }
+
+}
